@@ -1,24 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\API_Backend\\",
+  "WorkspaceRootPath": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\Gestion-Reclamation-SAV\\API_Backend\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SAV_Api/True/SqlTable/dbo.PieceUtilises.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B388CFEF-C4BD-4AE9-833D-3E2566EAC5AE}|API_Backend.csproj|e:\\ginf\\ginf3\\architecturelogicielledotnet\\projet .net 2024\\api_backend\\models\\pieceutilise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B388CFEF-C4BD-4AE9-833D-3E2566EAC5AE}|API_Backend.csproj|e:\\ginf\\ginf3\\architecturelogicielledotnet\\projet .net 2024\\gestion-reclamation-sav\\api_backend\\models\\pieceutilise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B388CFEF-C4BD-4AE9-833D-3E2566EAC5AE}|API_Backend.csproj|solutionrelative:models\\pieceutilise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B388CFEF-C4BD-4AE9-833D-3E2566EAC5AE}|API_Backend.csproj|e:\\ginf\\ginf3\\architecturelogicielledotnet\\projet .net 2024\\api_backend\\models\\piecerechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B388CFEF-C4BD-4AE9-833D-3E2566EAC5AE}|API_Backend.csproj|e:\\ginf\\ginf3\\architecturelogicielledotnet\\projet .net 2024\\gestion-reclamation-sav\\api_backend\\models\\piecerechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B388CFEF-C4BD-4AE9-833D-3E2566EAC5AE}|API_Backend.csproj|solutionrelative:models\\piecerechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B388CFEF-C4BD-4AE9-833D-3E2566EAC5AE}|API_Backend.csproj|e:\\ginf\\ginf3\\architecturelogicielledotnet\\projet .net 2024\\api_backend\\models\\reclamation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B388CFEF-C4BD-4AE9-833D-3E2566EAC5AE}|API_Backend.csproj|e:\\ginf\\ginf3\\architecturelogicielledotnet\\projet .net 2024\\gestion-reclamation-sav\\api_backend\\models\\reclamation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B388CFEF-C4BD-4AE9-833D-3E2566EAC5AE}|API_Backend.csproj|solutionrelative:models\\reclamation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B388CFEF-C4BD-4AE9-833D-3E2566EAC5AE}|API_Backend.csproj|e:\\ginf\\ginf3\\architecturelogicielledotnet\\projet .net 2024\\api_backend\\models\\intervention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B388CFEF-C4BD-4AE9-833D-3E2566EAC5AE}|API_Backend.csproj|e:\\ginf\\ginf3\\architecturelogicielledotnet\\projet .net 2024\\gestion-reclamation-sav\\api_backend\\models\\intervention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B388CFEF-C4BD-4AE9-833D-3E2566EAC5AE}|API_Backend.csproj|solutionrelative:models\\intervention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,64 +42,59 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "dbo.PieceUtilises [Donn\u00E9es]",
+              "Title": "dbo.PieceUtilises.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SAV_Api/True/SqlTable/dbo.PieceUtilises.sql",
-              "ToolTip": "dbo.PieceUtilises [Donn\u00E9es]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SAV_Api/True/SqlTable/dbo.PieceUtilises.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-11T01:39:03.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T01:39:03.941Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PieceUtilise.cs",
-              "DocumentMoniker": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\API_Backend\\Models\\PieceUtilise.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\Gestion-Reclamation-SAV\\API_Backend\\Models\\PieceUtilise.cs",
               "RelativeDocumentMoniker": "Models\\PieceUtilise.cs",
-              "ToolTip": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\API_Backend\\Models\\PieceUtilise.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\Gestion-Reclamation-SAV\\API_Backend\\Models\\PieceUtilise.cs",
               "RelativeToolTip": "Models\\PieceUtilise.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T01:37:51.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T01:37:51.735Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PieceRechange.cs",
-              "DocumentMoniker": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\API_Backend\\Models\\PieceRechange.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\Gestion-Reclamation-SAV\\API_Backend\\Models\\PieceRechange.cs",
               "RelativeDocumentMoniker": "Models\\PieceRechange.cs",
-              "ToolTip": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\API_Backend\\Models\\PieceRechange.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\Gestion-Reclamation-SAV\\API_Backend\\Models\\PieceRechange.cs",
               "RelativeToolTip": "Models\\PieceRechange.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T01:36:38.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T01:36:38.452Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Reclamation.cs",
-              "DocumentMoniker": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\API_Backend\\Models\\Reclamation.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\Gestion-Reclamation-SAV\\API_Backend\\Models\\Reclamation.cs",
               "RelativeDocumentMoniker": "Models\\Reclamation.cs",
-              "ToolTip": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\API_Backend\\Models\\Reclamation.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\Gestion-Reclamation-SAV\\API_Backend\\Models\\Reclamation.cs",
               "RelativeToolTip": "Models\\Reclamation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T01:36:16.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T01:36:16.405Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Intervention.cs",
-              "DocumentMoniker": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\API_Backend\\Models\\Intervention.cs",
+              "DocumentMoniker": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\Gestion-Reclamation-SAV\\API_Backend\\Models\\Intervention.cs",
               "RelativeDocumentMoniker": "Models\\Intervention.cs",
-              "ToolTip": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\API_Backend\\Models\\Intervention.cs",
+              "ToolTip": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\Gestion-Reclamation-SAV\\API_Backend\\Models\\Intervention.cs",
               "RelativeToolTip": "Models\\Intervention.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T01:35:58.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T01:35:58.288Z"
             }
           ]
         }

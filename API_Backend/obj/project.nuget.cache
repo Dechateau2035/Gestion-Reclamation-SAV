@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "efQTwheNAUU=",
+  "dgSpecHash": "VcLQbvuKjkE=",
   "success": true,
-  "projectFilePath": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\API_Backend\\API_Backend.csproj",
+  "projectFilePath": "E:\\GINF\\GINF3\\ArchitectureLogicielleDotNet\\Projet .Net 2024\\Gestion-Reclamation-SAV\\API_Backend\\API_Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\decha\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\decha\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
